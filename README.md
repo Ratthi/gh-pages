@@ -2,4 +2,4 @@
 gh-pagesเ
 *// It's free to use, modify or enchance. Just 
 remember that it's created as an example.
-*//โค๊ดทั้งหมดที่เห็นสร้างขึ้นเพื่อเป็นตัวอย่างเท่านั้น
+*//โค๊ดทั้งหมดที่เห็นสร้างขึ้นเพื่อเป็นตัวอย่างเท่านั้น.
